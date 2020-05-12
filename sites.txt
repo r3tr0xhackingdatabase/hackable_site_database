@@ -7,3 +7,8 @@ http://www.scleather.co.th/addcart.php?pid=1096
 http://www.myhobbytown.com/checkout.php?URL=http://www.myhobbytown.com/barang.php?kdMenu=M0001
 https://www.jmcosmetics.com/cn/del.php?id=140&url=Addcart.php
 http://www.alankrit.co.in/addcart.php?id=23
+
+
+
+http://singaporecoursebooks.com/addcart.php?prodid=2110
+http://www.rp-steelglass.com/addcart.php?pid=81
